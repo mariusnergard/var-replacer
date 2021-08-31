@@ -21,6 +21,7 @@ This app requires your computer to have Node.js installed.
 ## How to use
 Replace any variables in the IDM config with @key@<br>
 Currently these types are supported:<br>
+- caconfigs
 - datapools
 - authprofiles
 - transferconfigs

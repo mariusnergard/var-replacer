@@ -8,6 +8,7 @@ import { exit } from 'process';
 import dotenv from 'dotenv';
 
 const SIM_CONFIG_FOLDERS = [
+  'caconfigs',
   'datapools',
   'authprofiles',
   'transferconfigs',
